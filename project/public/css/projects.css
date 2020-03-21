@@ -1,0 +1,22 @@
+.card img{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.container{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h1{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.card{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+

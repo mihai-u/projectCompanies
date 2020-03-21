@@ -1,0 +1,35 @@
+body{
+    background-color: #F8F8F8;
+}
+
+.card{
+    color: #000;
+    background-color: #F8F8F8;
+    -webkit-box-shadow: 6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);   
+}
+
+.card-body{
+    box-shadow: 5px 6px 21px 0px rgba(255,255,255,0.54) inset;
+    -webkit-box-shadow: 5px 6px 21px 0px rgba(255,255,255,0.54) inset;
+    -moz-box-shadow: 5px 6px 21px 0px rgba(255,255,255,0.54) inset;
+}
+
+.table{
+    -webkit-box-shadow: 6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         6px 3px 10px 0px rgba(50, 50, 50, 0.75);
+}
+
+.btn{
+    -webkit-box-shadow: 4px 1px 8px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    4px 1px 8px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         4px 1px 8px 0px rgba(50, 50, 50, 0.75);
+    border: none;
+}

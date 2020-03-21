@@ -1,0 +1,23 @@
+g{
+    font-family: 'Nunito', sans-serif;
+}
+
+.barPlotContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#barPlot{
+    z-index: 1;
+}
+
+.background{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+    opacity: 0.1;
+    object-fit: center;
+    overflow: hidden;
+}

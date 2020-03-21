@@ -1,0 +1,16 @@
+form{
+    overflow: hidden;
+    display:table;
+    margin:auto;
+}
+
+.date-col{
+    width: 450px;
+    height: auto;
+}
+
+.pieChartContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

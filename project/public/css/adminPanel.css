@@ -1,0 +1,37 @@
+a:hover{
+    cursor: pointer;
+    color: #000;
+}
+
+.card{
+    text-align: left;
+}
+
+.section-A, .card-inner{
+    display: flex;
+    text-align: center;
+}
+
+.section-A .card-outer{
+    padding: 10px;
+}
+
+.badge{
+    float: right;
+    margin-left: 5px;
+}
+
+.card-outer{
+    background-color: #272932;
+    color: #fff;
+}
+
+.badge-danger:hover{
+    background-color: #781D26;
+}   
+
+.center-mobile{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
